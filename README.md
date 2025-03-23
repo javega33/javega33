@@ -2,8 +2,11 @@
 
 ![](https://github.com/javega33/javega33/blob/img/banner.png)
 
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+## About Me
+<p>
+Solution-oriented Systems Engineer dedicated to ensuring optimal technology function within complex, high-needs environments. Strong communications skills, able to partner with non-technical leaders to define core business needs, shape technical recommendations, and design/implement innovative systems tailored to unique business needs.
+Highly skilled and versatile professional with expertise spanning across System Administration, Data Science, Scrum Master, Software Development, Project Management, Database Administration (DBA), and ERP consulting. Adept at managing complex, high-demand projects, designing innovative technological solutions, and leading cross-functional teams to deliver impactful results.
+</p>
 
 ## My tech stack
 
@@ -69,18 +72,12 @@
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/javega33/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/viralbhadeshiya/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
+      alt="JAVega" height="30" width="40" /></a>
+  <a href="https://www.upwork.com/freelancers/~015312b161ffdc71a4" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
-      alt="Viral Bhadeshiya" height="30" width="auto" /></a>
+      alt="JAVega" height="30" width="auto" /></a>
 </p>
 
 -----
