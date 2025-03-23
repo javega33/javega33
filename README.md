@@ -1,6 +1,6 @@
 # Hello there I am Antonio Vega (javega33)
 
-![](https://github.com/javega33/javega33/blob/img/banner.jpg)
+![](https://github.com/javega33/javega33/blob/img/banner.png)
 
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
