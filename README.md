@@ -10,13 +10,13 @@ Highly skilled and versatile professional with expertise spanning across System 
 
 ## My Documents
 <a href="https://github.com/javega33/javega33/blob/documents/Jose_Vega_cv_2025.pdf" target="_blank">
-  <img src="https://github.com/javega33/javega33/blob/img/doc.png"> CV Español
+  <img src="https://github.com/javega33/javega33/blob/img/doc.png" height="5" width="5"> CV Español
 </a>
 <a href="https://github.com/javega33/javega33/blob/documents/Jose_Vega_resume_2025.pdf" target="_blank">
-  <img src="https://github.com/javega33/javega33/blob/img/doc.png"> Resume
+  <img src="https://github.com/javega33/javega33/blob/img/doc.png" height="5" width="5"> Resume
 </a>
 <a href="https://github.com/javega33/javega33/blob/documents/CPresentacion_JAVG_2025.pdf" target="_blank">
-  <img src="https://github.com/javega33/javega33/blob/img/doc.png"> Cover Letter
+  <img src="https://github.com/javega33/javega33/blob/img/doc.png" height="5" width="5"> Cover Letter
 </a>
 
 ## My tech stack
