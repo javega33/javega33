@@ -8,6 +8,17 @@ Solution-oriented Systems Engineer dedicated to ensuring optimal technology func
 Highly skilled and versatile professional with expertise spanning across System Administration, Data Science, Scrum Master, Software Development, Project Management, Database Administration (DBA), and ERP consulting. Adept at managing complex, high-demand projects, designing innovative technological solutions, and leading cross-functional teams to deliver impactful results.
 </p>
 
+## My Documents
+<a href="https://github.com/javega33/javega33/blob/documents/Jose_Vega_cv_2025.pdf" target="_blank">
+  <img src="https://github.com/javega33/javega33/blob/img/doc.png"> CV Español
+</a>
+<a href="https://github.com/javega33/javega33/blob/documents/Jose_Vega_resume_2025.pdf" target="_blank">
+  <img src="https://github.com/javega33/javega33/blob/img/doc.png"> Resume
+</a>
+<a href="https://github.com/javega33/javega33/blob/documents/CPresentacion_JAVG_2025.pdf" target="_blank">
+  <img src="https://github.com/javega33/javega33/blob/img/doc.png"> Cover Letter
+</a>
+
 ## My tech stack
 
 <p align="left"> 
