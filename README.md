@@ -9,14 +9,16 @@ Highly skilled and versatile professional with expertise spanning across System 
 </p>
 
 ## My Documents
-<a href="https://github.com/javega33/javega33/blob/documents/Jose_Vega_cv_2025.pdf" target="_blank">
-  <img src="https://github.com/javega33/javega33/blob/img/doc.png" height="25" width="25"> CV Español
+<a href="https://github.com/javega33/javega33/blob/documents/Jose_Vega_cv_2025.pdf" target="_blank" style="style=none;">
+  <img src="https://github.com/javega33/javega33/blob/img/doc.png" height="35" width="35"> CV Español
 </a>
-<a href="https://github.com/javega33/javega33/blob/documents/Jose_Vega_resume_2025.pdf" target="_blank">
-  <img src="https://github.com/javega33/javega33/blob/img/doc.png" height="5" width="5"> Resume
+<br>
+<a href="https://github.com/javega33/javega33/blob/documents/Jose_Vega_resume_2025.pdf" target="_blank" style="style=none;">
+  <img src="https://github.com/javega33/javega33/blob/img/doc.png" height="35" width="35"> Resume
 </a>
-<a href="https://github.com/javega33/javega33/blob/documents/CPresentacion_JAVG_2025.pdf" target="_blank">
-  <img src="https://github.com/javega33/javega33/blob/img/doc.png" height="5" width="5"> Cover Letter
+<br>
+<a href="https://github.com/javega33/javega33/blob/documents/CPresentacion_JAVG_2025.pdf" target="_blank" style="style=none;">
+  <img src="https://github.com/javega33/javega33/blob/img/doc.png" height="35" width="35"> Cover Letter
 </a>
 
 ## My tech stack
