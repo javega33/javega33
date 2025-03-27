@@ -38,6 +38,9 @@ Highly skilled and versatile professional with expertise spanning across System 
 ### 🚀 DevOps & Herramientas  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Pipelines](https://img.shields.io/badge/Pipelines-0078D4?style=for-the-badge&logo=azurepipelines&logoColor=white) ![LucidChart](https://img.shields.io/badge/LucidChart-FACC15?style=for-the-badge&logo=lucidchart&logoColor=black) ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)  
 
+## My Work
+📽️ [Allianz (ERP / CRM](https://github.com/javega33/javega33/blob/img/Allianz.mp4)
+
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/javega33/" target="blank"><img align="center"
