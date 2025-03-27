@@ -24,63 +24,50 @@ Highly skilled and versatile professional with expertise spanning across System 
 ## My tech stack
 
 <p align="left"> 
-
-  <a> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
-  </a>
-  &emsp; 
-  <a> 
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
-  </a>
-</p>
+<div class="tech-grid">
+  <div class="tech-item"><i class="fab fa-python"></i><p>Python</p></div>
+  <div class="tech-item"><i class="fas fa-database"></i><p>SQL</p></div>
+  <div class="tech-item"><i class="si-plotly"></i><p>Plotly</p></div>
+  <div class="tech-item"><i class="si-dash"></i><p>Dash</p></div>
+  <div class="tech-item"><i class="si-seaborn"></i><p>Seaborn</p></div>
+  <div class="tech-item"><i class="si-tableau"></i><p>Tableau</p></div>
+  <div class="tech-item"><i class="si-matplotlib"></i><p>Matplotlib</p></div>
+  <div class="tech-item"><i class="si-scikitlearn"></i><p>Sci-kit Learn</p></div>
+  <div class="tech-item"><i class="si-pandas"></i><p>Pandas</p></div>
+  <div class="tech-item"><i class="fab fa-php"></i><p>PHP</p></div>
+  <div class="tech-item"><i class="si-mysql"></i><p>MySQL</p></div>
+  <div class="tech-item"><i class="si-oracle"></i><p>PL/SQL</p></div>
+  <div class="tech-item"><i class="fab fa-css3-alt"></i><p>CSS</p></div>
+  <div class="tech-item"><i class="fab fa-html5"></i><p>HTML</p></div>
+  <div class="tech-item"><i class="fab fa-js"></i><p>JavaScript</p></div>
+  <div class="tech-item"><i class="fas fa-chart-line"></i><p>Dashboard</p></div>
+  <div class="tech-item"><i class="si-powerbi"></i><p>Power BI</p></div>
+  <div class="tech-item"><i class="si-microsoftoffice"></i><p>Office 365</p></div>
+  <div class="tech-item"><i class="si-sap"></i><p>SAP</p></div>
+  <div class="tech-item"><i class="si-odoo"></i><p>Odoo</p></div>
+  <div class="tech-item"><i class="si-totvs"></i><p>Totvs</p></div>
+  <div class="tech-item"><i class="si-salesforce"></i><p>Salesforce</p></div>
+  <div class="tech-item"><i class="si-oracle"></i><p>Oracle One</p></div>
+  <div class="tech-item"><i class="si-mongodb"></i><p>MongoDB</p></div>
+  <div class="tech-item"><i class="fab fa-r-project"></i><p>R</p></div>
+  <div class="tech-item"><i class="fab fa-ruby"></i><p>Ruby</p></div>
+  <div class="tech-item"><i class="fas fa-box"></i><p>Product Master</p></div>
+  <div class="tech-item"><i class="fas fa-brain"></i><p>Machine Learning</p></div>
+  <div class="tech-item"><i class="si-microsoft"></i><p>Dynamics</p></div>
+  <div class="tech-item"><i class="fab fa-aws"></i><p>AWS</p></div>
+  <div class="tech-item"><i class="si-googlecloud"></i><p>Google Cloud</p></div>
+  <div class="tech-item"><i class="si-dropbox"></i><p>DropBox</p></div>
+  <div class="tech-item"><i class="si-microsoftonedrive"></i><p>OneDrive</p></div>
+  <div class="tech-item"><i class="si-lucidchart"></i><p>LucidChart</p></div>
+  <div class="tech-item"><i class="si-miro"></i><p>Miro</p></div>
+  <div class="tech-item"><i class="si-cloudskew"></i><p>CloudSkew</p></div>
+  <div class="tech-item"><i class="fab fa-microsoft"></i><p>Azure</p></div>
+  <div class="tech-item"><i class="fab fa-docker"></i><p>Docker</p></div>
+  <div class="tech-item"><i class="fab fa-kubernetes"></i><p>Kubernetes</p></div>
+  <div class="tech-item"><i class="si-datadog"></i><p>DataDog</p></div>
+  <div class="tech-item"><i class="si-githubactions"></i><p>Pipelines</p></div>
+  <div class="tech-item"><i class="fab fa-github"></i><p>Github</p></div>
+</div>
 
 
 ## Connect with me:
