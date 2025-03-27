@@ -21,54 +21,22 @@ Highly skilled and versatile professional with expertise spanning across System 
   <img src="https://github.com/javega33/javega33/blob/img/doc.png" height="35" width="35"> Cover Letter
 </a>
 
-## My tech stack
+## My tech stack 
 
-<p align="left"> 
-<div class="tech-grid">
-  <div class="tech-item"><i class="fab fa-python"></i><p>Python</p></div>
-  <div class="tech-item"><i class="fas fa-database"></i><p>SQL</p></div>
-  <div class="tech-item"><i class="si-plotly"></i><p>Plotly</p></div>
-  <div class="tech-item"><i class="si-dash"></i><p>Dash</p></div>
-  <div class="tech-item"><i class="si-seaborn"></i><p>Seaborn</p></div>
-  <div class="tech-item"><i class="si-tableau"></i><p>Tableau</p></div>
-  <div class="tech-item"><i class="si-matplotlib"></i><p>Matplotlib</p></div>
-  <div class="tech-item"><i class="si-scikitlearn"></i><p>Sci-kit Learn</p></div>
-  <div class="tech-item"><i class="si-pandas"></i><p>Pandas</p></div>
-  <div class="tech-item"><i class="fab fa-php"></i><p>PHP</p></div>
-  <div class="tech-item"><i class="si-mysql"></i><p>MySQL</p></div>
-  <div class="tech-item"><i class="si-oracle"></i><p>PL/SQL</p></div>
-  <div class="tech-item"><i class="fab fa-css3-alt"></i><p>CSS</p></div>
-  <div class="tech-item"><i class="fab fa-html5"></i><p>HTML</p></div>
-  <div class="tech-item"><i class="fab fa-js"></i><p>JavaScript</p></div>
-  <div class="tech-item"><i class="fas fa-chart-line"></i><p>Dashboard</p></div>
-  <div class="tech-item"><i class="si-powerbi"></i><p>Power BI</p></div>
-  <div class="tech-item"><i class="si-microsoftoffice"></i><p>Office 365</p></div>
-  <div class="tech-item"><i class="si-sap"></i><p>SAP</p></div>
-  <div class="tech-item"><i class="si-odoo"></i><p>Odoo</p></div>
-  <div class="tech-item"><i class="si-totvs"></i><p>Totvs</p></div>
-  <div class="tech-item"><i class="si-salesforce"></i><p>Salesforce</p></div>
-  <div class="tech-item"><i class="si-oracle"></i><p>Oracle One</p></div>
-  <div class="tech-item"><i class="si-mongodb"></i><p>MongoDB</p></div>
-  <div class="tech-item"><i class="fab fa-r-project"></i><p>R</p></div>
-  <div class="tech-item"><i class="fab fa-ruby"></i><p>Ruby</p></div>
-  <div class="tech-item"><i class="fas fa-box"></i><p>Product Master</p></div>
-  <div class="tech-item"><i class="fas fa-brain"></i><p>Machine Learning</p></div>
-  <div class="tech-item"><i class="si-microsoft"></i><p>Dynamics</p></div>
-  <div class="tech-item"><i class="fab fa-aws"></i><p>AWS</p></div>
-  <div class="tech-item"><i class="si-googlecloud"></i><p>Google Cloud</p></div>
-  <div class="tech-item"><i class="si-dropbox"></i><p>DropBox</p></div>
-  <div class="tech-item"><i class="si-microsoftonedrive"></i><p>OneDrive</p></div>
-  <div class="tech-item"><i class="si-lucidchart"></i><p>LucidChart</p></div>
-  <div class="tech-item"><i class="si-miro"></i><p>Miro</p></div>
-  <div class="tech-item"><i class="si-cloudskew"></i><p>CloudSkew</p></div>
-  <div class="tech-item"><i class="fab fa-microsoft"></i><p>Azure</p></div>
-  <div class="tech-item"><i class="fab fa-docker"></i><p>Docker</p></div>
-  <div class="tech-item"><i class="fab fa-kubernetes"></i><p>Kubernetes</p></div>
-  <div class="tech-item"><i class="si-datadog"></i><p>DataDog</p></div>
-  <div class="tech-item"><i class="si-githubactions"></i><p>Pipelines</p></div>
-  <div class="tech-item"><i class="fab fa-github"></i><p>Github</p></div>
-</div>
+### 📌 Lenguajes y Bases de Datos  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)  
 
+### 🎨 Desarrollo Web  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+### 📊 Business Intelligence y Dashboard  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
+
+### ☁️ Cloud Computing  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+
+### 🚀 DevOps & Herramientas  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Pipelines](https://img.shields.io/badge/Pipelines-0078D4?style=for-the-badge&logo=azurepipelines&logoColor=white) ![LucidChart](https://img.shields.io/badge/LucidChart-FACC15?style=for-the-badge&logo=lucidchart&logoColor=black) ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)  
 
 ## Connect with me:
 <p align="left">
