@@ -41,6 +41,7 @@ Highly skilled and versatile professional with expertise spanning across System 
 ## My Work
 <p>
 From Consulting to Creating My Own Software
+
 After several years working as a Senior ERP Consultant, helping companies optimize their processes and improve their management, I identified a key market need: a flexible, efficient, and accessible online administration solution.
 
 With this vision, I developed Allianz, an online management software designed to simplify business administration. Built with robust technologies such as PHP, SQL, CSS, JavaScript, and jQuery, Allianz combines functionality and performance to offer companies an intuitive and powerful platform.
