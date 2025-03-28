@@ -52,6 +52,18 @@ Today, Allianz is a tool that enables businesses to manage their operations effi
 
 ![Demo](https://github.com/javega33/javega33/blob/img/Allianz.gif)
 
+<p>
+Creating Web Solutions
+  
+Throughout my professional career, I have developed multiple websites for different industries, adapting to the specific needs of each sector. From ecommerce platforms with integrated payment systems to informational websites optimized for SEO and interactive platforms that enhance user experience.
+
+Each project has presented a unique challenge, allowing me to apply various technologies and approaches to create functional, intuitive, and visually appealing solutions. My focus has always been on designing websites that not only meet business requirements but also drive growth and enhance digital presence.
+
+Today, I continue to innovate and refine my skills to develop efficient, modern websites tailored to the ever-changing market needs. 
+
+</p>
+
+![Demo](https://github.com/javega33/javega33/blob/img/html_work.gif)
 
 ## Connect with me:
 <p align="left">
