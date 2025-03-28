@@ -10,7 +10,7 @@ Highly skilled and versatile professional with expertise spanning across System 
 
 ## My Documents
 <a href="https://github.com/javega33/javega33/blob/documents/HV-JAVG_CV_2025.pdf" target="_blank" style="text-decoration: none;">
-  <img src="https://github.com/javega33/javega33/blob/img/doc.png" height="35" width="35"> CV Español
+  <img src="https://github.com/javega33/javega33/blob/img/doc.png" height="35" width="35"> Spanish Resume
 </a>
 <br>
 <a href="https://github.com/javega33/javega33/blob/documents/Jose_Vega_resume_2025.pdf" target="_blank" style="text-decoration: none;">
