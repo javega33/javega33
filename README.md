@@ -65,6 +65,21 @@ Today, I continue to innovate and refine my skills to develop efficient, modern 
 
 ![Demo](https://github.com/javega33/javega33/blob/img/html_work.gif)
 
+<p>
+My Journey as a Data Scientist
+  
+Throughout my experience as a Data Scientist, I have developed multiple projects focused on extracting value from data. From data analysis and cleaning to advanced segmentation, I have worked on transforming information into actionable insights.
+
+Using various Machine Learning techniques, I have implemented predictive models to optimize processes and support data-driven decision-making. Additionally, I have designed and developed interactive dashboards, enabling clear and effective data visualization and presentation.
+
+To reinforce and certify my knowledge, I completed the TripleTen Bootcamp, where I strengthened my skills in data analysis, predictive modeling, and insight communication. This experience has allowed me to refine my approaches and apply best practices in every project.
+
+My passion for data continues to drive me to innovate and find solutions based on artificial intelligence and advanced analytics.
+
+</p>
+
+![Demo](https://github.com/javega33/javega33/blob/img/dataSc.gif)
+
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/javega33/" target="blank"><img align="center"
