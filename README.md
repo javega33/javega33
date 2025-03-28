@@ -39,6 +39,15 @@ Highly skilled and versatile professional with expertise spanning across System 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Pipelines](https://img.shields.io/badge/Pipelines-0078D4?style=for-the-badge&logo=azurepipelines&logoColor=white) ![LucidChart](https://img.shields.io/badge/LucidChart-FACC15?style=for-the-badge&logo=lucidchart&logoColor=black) ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)  
 
 ## My Work
+<p>
+From Consulting to Creating My Own Software
+After several years working as a Senior ERP Consultant, helping companies optimize their processes and improve their management, I identified a key market need: a flexible, efficient, and accessible online administration solution.
+
+With this vision, I developed Allianz, an online management software designed to simplify business administration. Built with robust technologies such as PHP, SQL, CSS, JavaScript, and jQuery, Allianz combines functionality and performance to offer companies an intuitive and powerful platform.
+
+Today, Allianz is a tool that enables businesses to manage their operations efficiently, leveraging years of experience in ERP implementation across various industries. This project represents my commitment to innovation and digital transformation, providing a solution that adapts to the ever-changing needs of the business world.
+
+</p>
 ![Demo](https://github.com/javega33/javega33/blob/img/Allianz.gif)
 
 
