@@ -48,6 +48,7 @@ With this vision, I developed Allianz, an online management software designed to
 Today, Allianz is a tool that enables businesses to manage their operations efficiently, leveraging years of experience in ERP implementation across various industries. This project represents my commitment to innovation and digital transformation, providing a solution that adapts to the ever-changing needs of the business world.
 
 </p>
+
 ![Demo](https://github.com/javega33/javega33/blob/img/Allianz.gif)
 
 
