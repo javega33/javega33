@@ -40,11 +40,11 @@ Highly skilled and versatile professional with expertise spanning across System 
 
 ## Certificates
 
-![Demo](https://github.com/javega33/javega33/blob/img/cer_SM_Master.pdf)
+![Demo](https://github.com/javega33/javega33/blob/documents/cer_SM_Master.pdf)
 
-![Demo](https://github.com/javega33/javega33/blob/img/cer_SM_Developer.pdf)
+![Demo](https://github.com/javega33/javega33/blob/documents/cer_SM_Developer.pdf)
 
-![Demo](https://github.com/javega33/javega33/blob/img/cer_SM_fundamentos.pdf)
+![Demo](https://github.com/javega33/javega33/blob/documents/cer_SM_fundamentos.pdf)
 
 ## My Work
 <p>
