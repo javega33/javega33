@@ -42,6 +42,7 @@ Highly skilled and versatile professional with expertise spanning across System 
 <a href="https://github.com/javega33/javega33/blob/documents/cer_data_tt.pdf" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/javega33/javega33/blob/img/doc.png" height="35" width="35"> Data Scientist
 </a>
+<br>
 <a href="https://github.com/javega33/javega33/blob/documents/cer_SM_Master.pdf" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/javega33/javega33/blob/img/doc.png" height="35" width="35"> Scrum Master
 </a>
